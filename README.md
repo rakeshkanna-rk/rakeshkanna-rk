@@ -85,13 +85,25 @@
 ## Recent Projects
 
 <p align="center">
-  <img src="images/pipcreator.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
-  <img src="images/monocipher.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
+<a href="https://github.com/rakeshkanna-rk/pipCreator">
+  <img src="images/pipcreator.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</a>
+    &nbsp;&nbsp;
+<a href="https://github.com/rakeshkanna-rk/MonoCipher">
+  <img src="images/monocipher.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</a>
+    &nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
-  <img src="images/markdowneditor.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
+<a href="https://github.com/rakeshkanna-rk/Glass-Icons">
+  <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</a>
+  &nbsp;&nbsp;
+<a href="https://github.com/rakeshkanna-rk/Markdown-Editor">
+  <img src="images/markdowneditor.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</a>
+&nbsp;&nbsp;
 </p>
 
 
