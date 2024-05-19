@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=gradient&text=Rakesh%20Kanna&section=header&reversal=true&textBg=false&fontColor=ffffff&fontSize=80&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=gradient&text=Rakesh%20Kanna&section=header&reversal=true&textBg=false&fontColor=ffffff&fontSize=80"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/rakeshkanna-rk" alt="github">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45px" height="45px">
+    <img src="images/github.png" alt="github" width="45px" height="45px">
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/rk01.codes/">
     <img src="images/instagram.png" alt="instagram" width="45px" height="45px">
@@ -16,7 +16,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pypi/pypi-original.svg" alt="pypi" width="45px" height="45px">
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@rakeshkanna-rk">
-    <img src="youtube.png" alt="youtube" width="45px" height="45px">
+    <img src="images/youtube.png" alt="youtube" width="45px" height="45px">
+  </a>
+  <a href="https://medium.com/@rakeshkanna0108">
+    <img src="images/medium.png" alt="medium" width="45px" height="45px">
   </a>
 </p>
 
@@ -27,7 +30,7 @@
 
 # About Me
 
-### As a passionate learner and aspiring developer, I am dedicated to exploring the vast world of technology. My journey in software development focuses on web development and Python programming, where I strive to create innovative and efficient solutions. While development is my primary focus, I also bring a designer's touch to my projects, ensuring they are both functional and visually appealing. Additionally, I enjoy honing my writing skills to effectively communicate ideas and document my learning experiences.
+#### As a passionate learner and aspiring developer, I am dedicated to exploring the vast world of technology. My journey in software development focuses on web development and Python programming, where I strive to create innovative and efficient solutions. While development is my primary focus, I also bring a designer's touch to my projects, ensuring they are both functional and visually appealing. Additionally, I enjoy honing my writing skills to effectively communicate ideas and document my learning experiences.
 
 &nbsp;
 &nbsp;
@@ -35,48 +38,44 @@
 
 ## Areas of Interest
 
-**| Web Development | Python Programming | Full-Stack Development | Open Source Contributions |**
-
-&nbsp;
-&nbsp;
-&nbsp;
+**Web Development , Python Programming , Full-Stack Development ,  Open Source Contributions**
 
 ## Skills
 
 **Development:**
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45px", height="45px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="45px", height="45px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45px", height="45px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45px", height="45px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45px", height="45px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px", height="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45px", height="45px">&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="45px", height="45px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45px", height="45px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45px", height="45px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45px", height="45px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45px", height="45px">
 </p>
 
 **Design:**
 <p>
-  <img src="images/UI.png" alt="UI" height="50px">  
-  <img src="images/UX.png" alt="UX" height="50px">  
-  <img src="images/WebDesign.png" alt="Web Design" height="50px">  
-  <img src="images/AppDesign.png" alt="App Design" height="50px">  
-  <img src="images/PhotographyNEditing.png" alt="Photography Editing" height="50px">  
-  <img src="images/PosterNFlyer.png" alt="Poster and Flyer" height="50px">  
+  <img src="images/UI.png" alt="UI" height="50px">  &nbsp;&nbsp;
+  <img src="images/UX.png" alt="UX" height="50px">  &nbsp;&nbsp;
+  <img src="images/WebDesign.png" alt="Web Design" height="50px">  &nbsp;&nbsp;
+  <img src="images/AppDesign.png" alt="App Design" height="50px">  &nbsp;&nbsp;
+  <img src="images/PhotographyNEditing.png" alt="Photography Editing" height="50px"> &nbsp;&nbsp; 
+  <img src="images/PosterNFlyer.png" alt="Poster and Flyer" height="50px">  &nbsp;&nbsp;
 </p>
 
 **Writing:**
 <p>
-  <img src="images/Designing.png" alt="Designing" height="50px">  
-  <img src="images/Programming.png" alt="Programming" height="50px">  
-  <img src="images/ai.png" alt="vscode" height="50px">  
+  <img src="images/Designing.png" alt="Designing" height="50px">  &nbsp;&nbsp;
+  <img src="images/Programming.png" alt="Programming" height="50px">  &nbsp;&nbsp;
+  <img src="images/ai.png" alt="vscode" height="50px">  &nbsp;&nbsp;
 </p>
 
 **Software Familier**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45px", height="45px">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="45px", height="45px">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45px", height="45px">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45px", height="45px">  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="45px", height="45px">  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45px", height="45px">  &nbsp;&nbsp;
 </p>
 
 &nbsp;
@@ -85,14 +84,14 @@
 
 ## Recent Projects
 
-<p>
-<img src="images/pipcreator.png" alt="Portfolio" width="40%">
-<img src="images/monocipher.png" alt="Portfolio" width="40%">
+<p align="center">
+<img src="images/pipcreator.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
+<img src="images/monocipher.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
 </p>
 
-<p>
-<img src="images/glassicons.png" alt="Portfolio" width="40%">
-<img src="images/markdowneditor.png" alt="Portfolio" width="40%">
+<p align="center">
+<img src="images/glassicons.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
+<img src="images/markdowneditor.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
 </p>
 
 ---
