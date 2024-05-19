@@ -32,17 +32,17 @@
 
 #### As a passionate learner and aspiring developer, I am dedicated to exploring the vast world of technology. My journey in software development focuses on web development and Python programming, where I strive to create innovative and efficient solutions. While development is my primary focus, I also bring a designer's touch to my projects, ensuring they are both functional and visually appealing. Additionally, I enjoy honing my writing skills to effectively communicate ideas and document my learning experiences.
 
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
 
 ## Areas of Interest
 
 **Web Development , Python Programming , Full-Stack Development ,  Open Source Contributions**
 
+<br>
+
 ## Skills
 
-**Development:**
+**Development**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45px", height="45px">&nbsp;&nbsp;
@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45px", height="45px">
 </p>
 
-**Design:**
+**Design**
 <p>
   <img src="images/UI.png" alt="UI" height="50px">  &nbsp;&nbsp;
   <img src="images/UX.png" alt="UX" height="50px">  &nbsp;&nbsp;
@@ -64,7 +64,7 @@
   <img src="images/PosterNFlyer.png" alt="Poster and Flyer" height="50px">  &nbsp;&nbsp;
 </p>
 
-**Writing:**
+**Writing**
 <p>
   <img src="images/Designing.png" alt="Designing" height="50px">  &nbsp;&nbsp;
   <img src="images/Programming.png" alt="Programming" height="50px">  &nbsp;&nbsp;
@@ -85,14 +85,15 @@
 ## Recent Projects
 
 <p align="center">
-<img src="images/pipcreator.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
-<img src="images/monocipher.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
+  <img src="images/pipcreator.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
+  <img src="images/monocipher.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
 </p>
 
 <p align="center">
-<img src="images/glassicons.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
-<img src="images/markdowneditor.png" alt="Portfolio" width="45%">&nbsp;&nbsp;
+  <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
+  <img src="images/markdowneditor.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">&nbsp;&nbsp;
 </p>
+
 
 ---
 
