@@ -46,7 +46,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45px", height="45px">&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="45px", height="45px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45px", height="45px">&nbsp;&nbsp;
@@ -85,27 +85,36 @@
 ## Recent Projects
 
 <p align="center">
+<a href="https://github.com/rakeshkanna-rk/darkest">
+  <img src="images/darkest.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</a>
 <a href="https://github.com/rakeshkanna-rk/pipCreator">
   <img src="images/pipcreator.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
-</a>
-    &nbsp;&nbsp;
-<a href="https://github.com/rakeshkanna-rk/MonoCipher">
-  <img src="images/monocipher.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
     &nbsp;&nbsp;
 </p>
 
 <p align="center">
+<a href="https://github.com/rakeshkanna-rk/MonoCipher">
+  <img src="images/monocipher.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</a>
+    &nbsp;&nbsp;
 <a href="https://github.com/rakeshkanna-rk/Glass-Icons">
   <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
   &nbsp;&nbsp;
-<a href="https://github.com/rakeshkanna-rk/Markdown-Editor">
-  <img src="images/markdowneditor.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</p>
+
+<p align="center">
+<a href="https://github.com/rakeshkanna-rk/textPLay">
+  <img src="images/textplay.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rakeshkanna-rk/Glass-Icons">
+  <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
 &nbsp;&nbsp;
 </p>
-
 
 ---
 
