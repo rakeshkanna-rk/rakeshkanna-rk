@@ -132,7 +132,7 @@
 ## ✦ Timeline
 
 <p align="center">
-<img src="images/timeline.svg" alt="Timeline" style="width:100%; min-width:200px; max-width:100%; height:auto;">
+<img src="images/timeline.svg" alt="Timeline" style="width:100%; min-width:100%; max-width:100%; height:auto;">
 </p>
 
 **Practice Goes on and on.**
@@ -156,11 +156,11 @@
 
 <p align="center">
 <a href="mailto:rakeshkanna0108@gmail.com">
-  <img src="images/cta-mail.png" style="width:30%; min-width:200px; max-width:100%; height:auto;"  alt="mail"/>
+  <img src="images/cta-mail.png" style="width:30%; min-width:280px; max-width:100%; height:auto;"  alt="mail"/>
 </a>
 <br>
 <br>
-<img src="images/logo.png" style="width:10%; min-width:180px; max-width:100%; height:auto;"  alt="logo"/>
+<img src="images/logo.png" style="width:10%; min-width:280px; max-width:100%; height:auto;"  alt="logo"/>
 </p>
 
 <p align="center">
