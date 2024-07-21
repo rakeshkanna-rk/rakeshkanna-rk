@@ -28,19 +28,19 @@
 &nbsp;
 &nbsp;
 
-# About Me
+# ✦ About Me
 
-#### As a passionate learner and aspiring developer, I am dedicated to exploring the vast world of technology. My journey in software development focuses on web development and Python programming, where I strive to create innovative and efficient solutions. While development is my primary focus, I also bring a designer's touch to my projects, ensuring they are both functional and visually appealing. Additionally, I enjoy honing my writing skills to effectively communicate ideas and document my learning experiences.
+#### I'm an 18-year-old designer, developer, writer and technician. I specialize in UI/UX design, create posters and flyers, and bring websites to life by developing them with 1.5 years of dedicated practice. As a technician, I work on laptops, desktops, phones, and TVs. I share insights on design, programming, and AI through my blog. Join me on this journey of innovation and creativity!
 
 <br>
 
-## Areas of Interest
+## ✦ Areas of Interest
 
 **Web Development , Python Programming , Full-Stack Development ,  Open Source Contributions**
 
 <br>
 
-## Skills
+## ✦ Skills
 
 **Development**
 
@@ -71,18 +71,28 @@
   <img src="images/ai.png" alt="vscode" height="50px">  &nbsp;&nbsp;
 </p>
 
+**Hardware Technician**
+<p>
+  <img src="images/laptop.png" alt="laptop" width="45px", height="45px"> &nbsp;&nbsp;
+  <img src="images/mobile.png" alt="phone" width="45px", height="45px"> &nbsp;&nbsp;
+  <img src="images/tv.png" alt="tv" width="45px", height="45px">
+</p>
+
 **Software Familier**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45px", height="45px">  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="45px", height="45px">  &nbsp;&nbsp;
+  <img src="images/lightroom.png" alt="photoshop-lightrooms" width="45px", height="45px"> &nbsp;&nbsp;
+  <img src="images/vneditor.png" alt="photoshop-vneditor" width="45px", height="45px"> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45px", height="45px">  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="vscode" width="45px", height="45px">  
 </p>
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-## Recent Projects
+## ✦ Recent Projects
 
 <p align="center">
 <a href="https://github.com/rakeshkanna-rk/darkest">
@@ -119,14 +129,39 @@
 
 ---
 
-## I'm a young developer, designer, writer
+## ✦ Timeline
+
+<p align="center">
+<img src="images/timeline.svg" alt="Timeline" style="width:100%; min-width:200px; max-width:100%; height:auto;">
+</p>
+
+**Practice Goes on and on.**
+
+## ✦ Github Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkanna-rk&layout=donut&theme=transparent">
-<img src="https://github-readme-stats.vercel.app/api?username=rakeshkanna-rk&show_icons=true&theme=transparent">
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=rakeshkanna-rk&border_radius=20&background=EBEBEB00&ring=EB5454&fire=EB5454&currStreakNum=EBEBEB&border=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB">
 </p>
 
+## ✦ I'm a young developer, designer, writer
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
+<a href="mailto:rakeshkanna0108@gmail.com">
+  <img src="images/cta-mail.png" style="width:30%; min-width:200px; max-width:100%; height:auto;"  alt="mail"/>
+</a>
+<br>
+<br>
+<img src="images/logo.png" style="width:10%; min-width:180px; max-width:100%; height:auto;"  alt="logo"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
