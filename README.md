@@ -154,14 +154,13 @@
 &nbsp;
 &nbsp;
 
-<p align="center">
-<a href="mailto:rakeshkanna0108@gmail.com">
-  <img src="images/cta-mail.png" style="width:30%; min-width:280px; max-width:100%; height:auto;"  alt="mail"/>
-</a>
-<br>
-<br>
-<img src="images/logo.png" style="width:10%; min-width:280px; max-width:100%; height:auto;"  alt="logo"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:rakeshkanna0108@gmail.com" style="width:40%;min-width:100px; max-width:100%; height:auto;">
+    <img src="images/cta-mail.png"  alt="mail"/>
+  </a>
+  <img src="images/logo.png" style="width:10%; min-width:100px; max-width:100%; height:auto;" alt="logo"/>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
