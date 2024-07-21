@@ -154,8 +154,8 @@
 &nbsp;
 &nbsp;
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="mailto:rakeshkanna0108@gmail.com" style="width:40%;min-width:100px; max-width:100%; height:auto;">
+<p align="center">
+  <a href="mailto:rakeshkanna0108@gmail.com" style="width:40%;min-width:100px; max-width:75%; height:auto;">
     <img src="images/cta-mail-with-logo.svg"  alt="mail"/>
   </a>
 </p>
