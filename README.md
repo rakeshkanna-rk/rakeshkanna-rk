@@ -156,9 +156,8 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="mailto:rakeshkanna0108@gmail.com" style="width:40%;min-width:100px; max-width:100%; height:auto;">
-    <img src="images/cta-mail.png"  alt="mail"/>
+    <img src="images/cta-mail-with-logo.svg"  alt="mail"/>
   </a>
-  <img src="images/logo.png" style="width:10%; min-width:100px; max-width:100%; height:auto;" alt="logo"/>
 </p>
 
 
