@@ -6,7 +6,7 @@
   <a href="https://github.com/rakeshkanna-rk" alt="github">
     <img src="images/github.png" alt="github" width="45px" height="45px">
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rk01.codes/">
+  <a href="./instagram.md">
     <img src="images/instagram.png" alt="instagram" width="45px" height="45px">
   </a>&nbsp;&nbsp;
   <a href="https://www.behance.net/rakesh_kanna">
@@ -48,6 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="45px", height="45px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px", height="45px">&nbsp;&nbsp;
@@ -78,14 +79,15 @@
   <img src="images/tv.png" alt="tv" width="45px", height="45px">
 </p>
 
-**Software Familier**
+**Softwares and Tools Familier**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45px", height="45px">  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="45px", height="45px">  &nbsp;&nbsp;
   <img src="images/lightroom.png" alt="photoshop-lightrooms" width="45px", height="45px"> &nbsp;&nbsp;
   <img src="images/vneditor.png" alt="photoshop-vneditor" width="45px", height="45px"> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45px", height="45px">  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="vscode" width="45px", height="45px">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="vscode" width="45px", height="45px">  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45px", height="45px">
 </p>
 
 &nbsp;
@@ -137,10 +139,12 @@
 
 **Practice Goes on and on.**
 
+`On Processing → JavaScript and React`
+
 ## ✦ Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkanna-rk&layout=donut&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkanna-rk&layout=donut&theme=transparent&border_radius=20">
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=rakeshkanna-rk&border_radius=20&background=EBEBEB00&ring=EB5454&fire=EB5454&currStreakNum=EBEBEB&border=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB">
 </p>
