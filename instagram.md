@@ -9,13 +9,13 @@
     <td style="text-align:center">
     <br>
     <a href="https://www.instagram.com/rk01.designs/">
-    <img src="images/ig_rkd.png" alt="instagram" width="50%">
+    <img src="images/ig_rkd.png" alt="instagram" width="50%" align="center">
     </a>
     </td>
     <td style="text-align:center">
     <br>
     <a href="https://www.instagram.com/rk01.codes/">
-    <img src="images/ig_rkc.png" alt="instagram" width="50%"></td>
+    <img src="images/ig_rkc.png" alt="instagram" width="50%" align="center"></td>
     </a>
   </tr>
 </table>
