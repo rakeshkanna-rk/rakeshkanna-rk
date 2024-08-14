@@ -8,14 +8,15 @@
   <tr>
     <td style="text-align:center">
     <br>
-    <a href="https://www.instagram.com/rk01.designs/">
-    <img src="images/ig_rkd.png" alt="instagram" width="50%" align="center">
+    <a href="https://www.instagram.com/rk01.designs/" align="center">
+    <img src="images/ig_rkd.png" alt="instagram" width="50%">
     </a>
     </td>
     <td style="text-align:center">
     <br>
-    <a href="https://www.instagram.com/rk01.codes/">
-    <img src="images/ig_rkc.png" alt="instagram" width="50%" align="center"></td>
+    <a href="https://www.instagram.com/rk01.codes/" align="center">
+    <img src="images/ig_rkc.png" alt="instagram" width="50%">
     </a>
+    </td>
   </tr>
 </table>
