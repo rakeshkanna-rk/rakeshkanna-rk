@@ -149,7 +149,7 @@
 <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=rakeshkanna-rk&border_radius=20&background=EBEBEB00&ring=EB5454&fire=EB5454&currStreakNum=EBEBEB&border=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB">
 </p>
 
-![snake gif](https://github.com/rakeshkanna-rk/rakeshkanna-rk/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/rakeshkanna-rk/rakeshkanna-rk/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## ✦ I'm a young developer, designer, writer
 
