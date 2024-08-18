@@ -139,7 +139,7 @@
 
 **Practice Goes on and on.**
 
-`On Processing → JavaScript and React`
+`On Learning → JavaScript, React and NodeJS`
 
 ## ✦ Github Stats
 
