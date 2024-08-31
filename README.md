@@ -30,7 +30,7 @@
 
 # ✦ About Me
 
-#### I'm an 18-year-old designer, developer, writer and technician. I specialize in UI/UX design, create posters and flyers, and bring websites to life by developing them with 1.5 years of dedicated practice. As a technician, I work on laptops, desktops, phones, and TVs. I share insights on design, programming, and AI through my blog. Join me on this journey of innovation and creativity!
+**I'm an 18-year-old designer, developer, writer and technician. I specialize in UI/UX design, create posters and flyers, and bring websites to life by developing them with 1.5 years of dedicated practice. As a technician, I work on laptops, desktops, phones, and TVs. I share insights on design, programming, and AI through my blog. Join me on this journey of innovation and creativity!**
 
 <br>
 
