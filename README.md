@@ -112,15 +112,15 @@
   <img src="images/monocipher.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
     &nbsp;&nbsp;
-<a href="https://github.com/rakeshkanna-rk/Glass-Icons">
-  <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+<a href="https://github.com/rakeshkanna-rk/textPLay">
+  <img src="images/textplay.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
   &nbsp;&nbsp;
 </p>
 
 <p align="center">
-<a href="https://github.com/rakeshkanna-rk/textPLay">
-  <img src="images/textplay.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+<a href="https://github.com/rakeshkanna-rk/Glass-Icons">
+  <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/rakeshkanna-rk/Markdown-Editor">
