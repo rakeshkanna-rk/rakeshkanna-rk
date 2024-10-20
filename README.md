@@ -133,7 +133,7 @@
 
 ## ✦ Organization
 
-<a href="https://github.com/rakeshkanna-rk">
+<a href="https://github.com/ezycode-org">
   <img src="images/ezycodelogo.png" alt="ezycode" style="width:15%">
 </a>
 
