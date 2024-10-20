@@ -131,6 +131,12 @@
 
 ---
 
+## ✦ Organization
+
+<a href="https://github.com/rakeshkanna-rk">
+  <img src="images/ezycodelogo.png" alt="ezycode" style="width:15%">
+</a>
+
 ## ✦ Timeline
 
 <p align="center">
