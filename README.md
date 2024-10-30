@@ -157,6 +157,9 @@
 
 [![snake animation](https://github.com/rakeshkanna-rk/rakeshkanna-rk/blob/output/github-contribution-grid-snake-dark.svg)](https://gist.github.com/rakeshkanna-rk/5e96befe292f511e248ea12ac1893986)
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rakeshkanna-rk/count.svg" alt="profile-views">
+</p>
 
 ## ✦ I'm a young developer, designer, writer
 
