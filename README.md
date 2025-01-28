@@ -53,6 +53,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px", height="45px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45px", height="45px">
+<img src="images/flask-light.svg##gh-light-mode-only" alt="python" width="45px", height="45px">
+<img src="images/flask-dark.svg#gh-dark-mode-only" alt="python" width="45px", height="45px">
 </p>
 
 **Design**
