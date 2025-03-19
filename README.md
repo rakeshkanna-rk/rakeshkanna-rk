@@ -30,7 +30,7 @@
 
 # ✦ About Me
 
-**I'm an 18-year-old designer, developer, writer and technician. I specialize in UI/UX design, create posters and flyers, and bring websites to life by developing them with 1.5 years of dedicated practice. As a technician, I work on laptops, desktops, phones, and TVs. I share insights on design, programming, and AI through my blog. Join me on this journey of innovation and creativity!**
+**I'm an 18-year-old designer, developer, writer and technician. I specialize in UI/UX design, create posters and flyers, and bring websites to life by developing them with 1.5 years of dedicated practice. I share insights on design, programming, and AI through my blog. Join me on this journey of innovation and creativity!**
 
 <br>
 
@@ -74,12 +74,12 @@
   <img src="images/ai.png" alt="vscode" height="50px">  &nbsp;&nbsp;
 </p>
 
-**Hardware Technician**
+<!-- **Hardware Technician**
 <p>
   <img src="images/laptop.png" alt="laptop" width="45px", height="45px"> &nbsp;&nbsp;
   <img src="images/mobile.png" alt="phone" width="45px", height="45px"> &nbsp;&nbsp;
   <img src="images/tv.png" alt="tv" width="45px", height="45px">
-</p>
+</p> -->
 
 **Softwares and Tools Familier**
 <p>
@@ -121,12 +121,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rakeshkanna-rk/Glass-Icons">
-  <img src="images/glassicons.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+<a href="https://github.com/EzyCode-org/EzyDB">
+  <img src="images/EzyDB.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/rakeshkanna-rk/Markdown-Editor">
-  <img src="images/markdowneditor.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
+<a href="https://github.com/rakeshkanna-rk/Code-Editor">
+  <img src="images/Code-Editor.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
 </a>
 &nbsp;&nbsp;
 </p>
@@ -147,7 +147,7 @@
 
 **Practice Goes on and on.**
 
-`On Learning → JavaScript, React and NodeJS`
+`On Learning → JavaScript, Vue and Flask`
 
 ## ✦ Github Stats
 
