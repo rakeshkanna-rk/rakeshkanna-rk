@@ -6,7 +6,7 @@
   <a href="https://github.com/rakeshkanna-rk" alt="github">
     <img src="images/github.png" alt="github" width="45px" height="45px">
   </a>&nbsp;&nbsp;
-  <a href="./instagram.md">
+  <a href="https://www.instagram.com/rakesh_kanna.creates">
     <img src="images/instagram.png" alt="instagram" width="45px" height="45px">
   </a>&nbsp;&nbsp;
   <a href="https://www.behance.net/rakesh_kanna">
@@ -15,9 +15,9 @@
   <a href="https://pypi.org/user/rakeshkanna/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pypi/pypi-original.svg" alt="pypi" width="45px" height="45px">
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@rakeshkanna-rk">
+  <!-- <a href="https://www.youtube.com/@rakeshkanna-rk">
     <img src="images/youtube.png" alt="youtube" width="45px" height="45px">
-  </a>
+  </a> -->
   <a href="https://medium.com/@rakeshkanna0108">
     <img src="images/medium.png" alt="medium" width="45px" height="45px">
   </a>
@@ -30,17 +30,15 @@
 
 # ✦ About Me
 
-**I’m a passionate designer, developer, writer, and technician with 1.5 years of hands-on experience turning ideas into engaging digital experiences. I specialize in UI/UX design, crafting intuitive interfaces, posters, and promotional materials, and I bring those designs to life through web development.**
+**I design digital experiences with a strong focus on clarity, visual consistency, and how things feel in use. My work is rooted in UI/UX and brand thinking, where every interface is shaped to be simple, structured, and easy to navigate. I pay close attention to spacing, typography, and visual rhythm to make sure each product feels cohesive from end to end.**
 
-**Beyond building and designing, I enjoy sharing knowledge through my blog—writing about design principles, programming, and the evolving world of AI.**
-
-**I’m always exploring, learning, and creating. Join me on this journey of innovation and creativity!**
+**I work closely with early-stage ideas and growing products, shaping both the interface and the brand as they evolve. From defining visual direction to building scalable design systems, I focus on creating work that holds together across screens and touchpoints. Currently, I lead design and brand experience at Mergex, where I handle the overall direction of product design and ensure consistency across everything we build.**
 
 <br>
 
 ## ✦ Areas of Interest
 
-**Web Development , Python Programming , Full-Stack Development ,  Open Source Contributions**
+**Web Development , Full-Stack Development , AI & Vibe Coding & Open Source Contributions**
 
 <br>
 
@@ -89,89 +87,29 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45px", height="45px">  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="45px", height="45px">  &nbsp;&nbsp;
-  <img src="images/lightroom.png" alt="photoshop-lightrooms" width="45px", height="45px"> &nbsp;&nbsp;
-  <img src="images/vneditor.png" alt="photoshop-vneditor" width="45px", height="45px"> &nbsp;&nbsp;
+  <!-- <img src="images/lightroom.png" alt="photoshop-lightrooms" width="45px", height="45px"> &nbsp;&nbsp;
+  <img src="images/vneditor.png" alt="photoshop-vneditor" width="45px", height="45px"> &nbsp;&nbsp; -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45px", height="45px">  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="vscode" width="45px", height="45px">  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45px", height="45px">
 </p>
 
 &nbsp;
-&nbsp;
-&nbsp;
-
-## ✦ Recent Projects
-
-<p align="center">
-<a href="https://github.com/rakeshkanna-rk/darkest">
-  <img src="images/darkest.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
-</a>
-    &nbsp;&nbsp;
-<a href="https://github.com/rakeshkanna-rk/pipCreator">
-  <img src="images/pipcreator.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
-</a>
-    &nbsp;&nbsp;
-</p>
-
-<p align="center">
-<a href="https://github.com/rakeshkanna-rk/MonoCipher">
-  <img src="images/monocipher.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
-</a>
-    &nbsp;&nbsp;
-<a href="https://github.com/rakeshkanna-rk/textPLay">
-  <img src="images/textplay.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
-</a>
-  &nbsp;&nbsp;
-</p>
-
-<p align="center">
-<a href="https://github.com/EzyCode-org/EzyDB">
-  <img src="images/EzyDB.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rakeshkanna-rk/Code-Editor">
-  <img src="images/Code-Editor.png" alt="Portfolio" style="width:45%; min-width:200px; max-width:100%; height:auto;">
-</a>
-&nbsp;&nbsp;
-</p>
-
----
-
-## ✦ Organization
-
-<a href="https://github.com/ezycode-org">
-  <img src="images/ezycodelogo.png" alt="ezycode" style="width:15%">
-</a>
-
-## ✦ Timeline
-
-<p align="center">
-<img src="images/timeline.svg" alt="Timeline" style="width:100%; min-width:100%; max-width:100%; height:auto;">
-</p>
 
 **Practice Goes on and on.**
 
-`On Learning → JavaScript, Vue and Flask`
 
 ## ✦ Github Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkanna-rk&layout=donut&theme=transparent&border_radius=20">
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=rakeshkanna-rk&border_radius=20&background=EBEBEB00&ring=EB5454&fire=EB5454&currStreakNum=EBEBEB&border=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB">
-</p>
+<!-- <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=rakeshkanna-rk&border_radius=20&background=EBEBEB00&ring=EB5454&fire=EB5454&currStreakNum=EBEBEB&border=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB"> -->
 
 [![snake animation](https://github.com/rakeshkanna-rk/rakeshkanna-rk/blob/output/github-contribution-grid-snake-dark.svg)](https://gist.github.com/rakeshkanna-rk/5e96befe292f511e248ea12ac1893986)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rakeshkanna-rk/count.svg" alt="profile-views">
-</p>
+## ✦ I'm a Designer & Developer
 
-## ✦ I'm a young developer, designer, writer
-
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
